@@ -1,0 +1,36 @@
+#Internal package file, do not edit.
+#Wed May 10 13:26:47 CST 2017
+2.base=C\:\\Users\\Administrator.KTS-20160106YSM\\Desktop\\Chapter_4\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=C\:\\Users\\Administrator.KTS-20160106YSM\\Desktop\\Chapter_4\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\demo_1.xml
+5.set=ANDROID_RESOURCE
+3.base=C\:\\Users\\Administrator.KTS-20160106YSM\\Desktop\\Chapter_4\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=C\:\\Users\\Administrator.KTS-20160106YSM\\Desktop\\Chapter_4\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+2.set=ANDROID_RESOURCE
+10.set=ANDROID_RESOURCE
+10.file=C\:\\Users\\Administrator.KTS-20160106YSM\\Desktop\\Chapter_4\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_launcher.png
+4.base=C\:\\Users\\Administrator.KTS-20160106YSM\\Desktop\\Chapter_4\\app\\build\\intermediates\\res\\resources-debug.ap_
+7.file=C\:\\Users\\Administrator.KTS-20160106YSM\\Desktop\\Chapter_4\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\demo_2.xml
+7.set=ANDROID_RESOURCE
+count=11
+0.file=C\:\\Users\\Administrator.KTS-20160106YSM\\Desktop\\Chapter_4\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\anim\\translate.xml
+5.base=C\:\\Users\\Administrator.KTS-20160106YSM\\Desktop\\Chapter_4\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.file=C\:\\Users\\Administrator.KTS-20160106YSM\\Desktop\\Chapter_4\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
+4.set=ANDROID_RESOURCE
+6.base=C\:\\Users\\Administrator.KTS-20160106YSM\\Desktop\\Chapter_4\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=C\:\\Users\\Administrator.KTS-20160106YSM\\Desktop\\Chapter_4\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\content_layout.xml
+9.set=ANDROID_RESOURCE
+9.file=C\:\\Users\\Administrator.KTS-20160106YSM\\Desktop\\Chapter_4\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\edit.xml
+10.base=C\:\\Users\\Administrator.KTS-20160106YSM\\Desktop\\Chapter_4\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.set=ANDROID_RESOURCE
+7.base=C\:\\Users\\Administrator.KTS-20160106YSM\\Desktop\\Chapter_4\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.file=C\:\\Users\\Administrator.KTS-20160106YSM\\Desktop\\Chapter_4\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+6.set=ANDROID_RESOURCE
+0.base=C\:\\Users\\Administrator.KTS-20160106YSM\\Desktop\\Chapter_4\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.base=C\:\\Users\\Administrator.KTS-20160106YSM\\Desktop\\Chapter_4\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\Users\\Administrator.KTS-20160106YSM\\Desktop\\Chapter_4\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_test.xml
+3.set=ANDROID_RESOURCE
+1.base=C\:\\Users\\Administrator.KTS-20160106YSM\\Desktop\\Chapter_4\\app\\build\\intermediates\\res\\resources-debug.ap_
+9.base=C\:\\Users\\Administrator.KTS-20160106YSM\\Desktop\\Chapter_4\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=C\:\\Users\\Administrator.KTS-20160106YSM\\Desktop\\Chapter_4\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\content_list_item.xml
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE

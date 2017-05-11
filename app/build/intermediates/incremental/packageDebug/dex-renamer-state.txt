@@ -1,0 +1,7 @@
+#Thu May 11 11:22:30 CST 2017
+base.0=C\:\\Users\\Administrator.KTS-20160106YSM\\Desktop\\Chapter_4\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_10fc67cab9f00ce86e63bcd65c24ce2a0ac13d86
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Administrator.KTS-20160106YSM\\Desktop\\Chapter_4\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_91a4015046a60fef42ae1f5366c97b7a1dedcd53\\classes.dex
+base.1=C\:\\Users\\Administrator.KTS-20160106YSM\\Desktop\\Chapter_4\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_91a4015046a60fef42ae1f5366c97b7a1dedcd53
+file.0=C\:\\Users\\Administrator.KTS-20160106YSM\\Desktop\\Chapter_4\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_10fc67cab9f00ce86e63bcd65c24ce2a0ac13d86\\classes.dex

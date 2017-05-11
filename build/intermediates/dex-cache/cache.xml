@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator.KTS-20160106YSM\Desktop\Chapter_4\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cbb70939002c63a19496ba88cb25da42f58a288c">
+        <dex dex="C:\Users\Administrator.KTS-20160106YSM\Desktop\Chapter_4\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_10fc67cab9f00ce86e63bcd65c24ce2a0ac13d86\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator.KTS-20160106YSM\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\Administrator.KTS-20160106YSM\Desktop\Chapter_4\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-19.1.0_2feec8d39d7ac36d425bec68e45614aacf39a6b6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator.KTS-20160106YSM\Desktop\Chapter_4\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fe385c073958b08b7461ed7afc99ec4752c943d">
+        <dex dex="C:\Users\Administrator.KTS-20160106YSM\Desktop\Chapter_4\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_91a4015046a60fef42ae1f5366c97b7a1dedcd53\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator.KTS-20160106YSM\Desktop\Chapter_4\app\libs\nineoldandroids.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2d6197c1913cc3eae6cd2e4137498fbec94971b6">
+        <dex dex="C:\Users\Administrator.KTS-20160106YSM\Desktop\Chapter_4\app\build\intermediates\transforms\dex\debug\folders\1000\2\nineoldandroids_3cf646640d68ef7c083f15954fb4fef38308caed\classes.dex" />
+    </item>
+
+</items>

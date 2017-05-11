@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator.KTS-20160106YSM\\Desktop\\Chapter_4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\demo_1.xml",
+        "source": "C:\\Users\\Administrator.KTS-20160106YSM\\Desktop\\Chapter_4\\app\\src\\main\\res\\layout\\demo_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.KTS-20160106YSM\\Desktop\\Chapter_4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_list_item.xml",
+        "source": "C:\\Users\\Administrator.KTS-20160106YSM\\Desktop\\Chapter_4\\app\\src\\main\\res\\layout\\content_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.KTS-20160106YSM\\Desktop\\Chapter_4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\demo_2.xml",
+        "source": "C:\\Users\\Administrator.KTS-20160106YSM\\Desktop\\Chapter_4\\app\\src\\main\\res\\layout\\demo_2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.KTS-20160106YSM\\Desktop\\Chapter_4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Administrator.KTS-20160106YSM\\Desktop\\Chapter_4\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.KTS-20160106YSM\\Desktop\\Chapter_4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_test.xml",
+        "source": "C:\\Users\\Administrator.KTS-20160106YSM\\Desktop\\Chapter_4\\app\\src\\main\\res\\layout\\activity_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.KTS-20160106YSM\\Desktop\\Chapter_4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_layout.xml",
+        "source": "C:\\Users\\Administrator.KTS-20160106YSM\\Desktop\\Chapter_4\\app\\src\\main\\res\\layout\\content_layout.xml"
+    }
+]
